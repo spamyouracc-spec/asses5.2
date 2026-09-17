@@ -3,7 +3,7 @@ agentany
 stages{
 stage('Checkout') {
 steps{
-gitbranch: 'main', url: 'https://github.com/<student-username>/<repo-name>.git'
+gitbranch: 'main', url: 'https://github.com/spamyouracc-spec/asses5.2.git'
 }
 }
 stage('GenerateReport') {

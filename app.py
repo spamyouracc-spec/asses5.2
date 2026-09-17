@@ -1,6 +1,6 @@
 with open("report.txt", "w") as f:
     f.write("ApplicationReport\n")
-    f.write("TotalUsers:120\n")
-    f.write("ActiveSessions:45\n")
+    f.write("TotalUsers:250\n")
+    f.write("ActiveSessions:67\n")
 
 print("Report generated.")
